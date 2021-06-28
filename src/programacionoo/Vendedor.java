@@ -6,20 +6,19 @@ public class Vendedor {
 	private String CorreoElectrónico;
 	private String NumTeléfono;
 
-	/*Abstracción*/
-	
+	/* Abstracción */
+
 	void VenderBoleto(String día, String hora) {
 		int boleto = 0;
 		String valor = día + hora;
 	}
-	
-	/*Polimorfismo*/
-	
+
+	/* Polimorfismo */
+
 	void VenderBoleto(String Mes) {
 		int boleto = 0;
 		String Stock = Mes;
 	}
-	/*Herencia*/
-	
+	/* Herencia */
 
 }
