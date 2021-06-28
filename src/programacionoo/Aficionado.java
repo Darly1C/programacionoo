@@ -1,14 +1,5 @@
 package programacionoo;
 
-public class Aficionado {
-	String nombre;
+public class Aficionado extends Persona {
 	
-	String getnombre() {
-		return nombre;
-	}
-	
-	void setNombre(String nombre) {
-		this.nombre = nombre;
-	}
-
 }
