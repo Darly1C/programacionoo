@@ -14,11 +14,10 @@ public class MainE1 {
 		if (S < 300) {
 			// SI
 			int B = 40;
-			S = 0;
-			System.out.println("Su bonificación es: " + S);
+			System.out.println("Su bonificación es: " + B);
 		} else
 			// NO
-			System.out.println("No hay bonificación: B = 0");
+			System.out.println("No hay bonificación:" + 0);
 		
 	}
 
