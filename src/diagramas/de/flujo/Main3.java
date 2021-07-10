@@ -16,7 +16,7 @@ public class Main3 {
 		
 		for (int M=0; M<=12; M++) {
 			int R = N*M;
-			System.out.println("La Tabla: " + R);
+			System.out.println(N +"x" + M + "=" + R);
 		}
 
 	}
