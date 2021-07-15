@@ -8,11 +8,13 @@ public class Main5 {
 		// TODO Auto-generated method stub
 		
 		Scanner teclado = new Scanner(System.in);// TECLADO
+		System.out.println("Ingrese un Número");
+		int N = teclado.nextInt();
 
-		System.out.println("Asteriscos");
+		System.out.println("Asteriscos hacia abajo");
 
-		for (int fila = 1; fila <= 5; fila ++) {
-			for (int ast = 5; ast >= fila; ast--) {
+		for (int fila = 1; fila <= N; fila ++) {
+			for (int ast = N; ast >= fila; ast--) {
 				System.out.print("*");
 			}
 			System.out.println();// Salto de línea
