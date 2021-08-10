@@ -12,6 +12,7 @@ public class ProgramaDeOrdenamientoDeVectores {
 //		-Salomé Jiménez
 //		-Darly Castillo
 //		-Cristian Chulca
+//		-Danilo Alvarracin
 
 //		Desarrollar un programa, que solicite al usuario ingresar el número de la longitud de un vector de enteros (int), 
 //		a partir de este número, crear un vector con dicha longitud; el programa deberá solicitar al usuario que ingrese 
