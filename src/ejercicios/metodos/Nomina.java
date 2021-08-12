@@ -1,14 +1,13 @@
 package ejercicios.metodos;
 
-public class Notas {
+public class Nomina {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//Verificar si soy estudiante.
-		//Consultar notas.
-		//Si existe notas
+		//Consultar docente.
+		//Ver que su contato esté activo.
 		Impresora impresion1 = new Impresora();//instanciar la clase
-		impresion1.imprimir("Programación 1: 20 - Investigación: 17", 8);
+		impresion1.imprimir("Pepito Perez: 1200$", 8);
 
 	}
 
