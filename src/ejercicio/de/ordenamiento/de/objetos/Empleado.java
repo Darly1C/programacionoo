@@ -8,7 +8,7 @@ package ejercicio.de.ordenamiento.de.objetos;
 //	salario
 //	El programa debe imprimir un reporte de todos los empleados ordenados por su salario (menor a mayor).
 //	Nota: los datos de los 10 empleados se deben setear con valores de ejemplo cualquiera.
-
+// Modificado
 
 	// Interfaz Comparable
 public class Empleado implements Comparable<Empleado> {
