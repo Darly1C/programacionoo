@@ -18,7 +18,7 @@ public class MainE1 {
 		} else
 			// NO
 			System.out.println("No hay bonificación:" + 0);
-		
+
 	}
 
 }
